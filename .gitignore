@@ -4,6 +4,4 @@ terraform.tfstate
 dev.hcl
 prod.hcl
 /.terraform
-*.tfstate 
-*.tfstate.*
-*.tfvars          
+udemy-course/terraform.tfstate      
